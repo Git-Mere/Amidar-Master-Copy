@@ -1,0 +1,15 @@
+/*
+// File name             : style.css
+// Project name          : Amidar
+// The course name       : GAM100
+// The term              : fall/2020
+// Author                : 
+// Copyright information : “All content © 2020 DigiPen (USA) Corporation, all rights reserved.”
+*/
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
