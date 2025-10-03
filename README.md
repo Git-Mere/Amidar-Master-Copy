@@ -1,4 +1,4 @@
-1. https://editor.p5js.org/SeungHeon.Jeon/full/OHsZVpid6
+1. https://editor.p5js.org/SeungHeon.Jeon/full/OHsZVpid6 (you can play at this link)
 
 2. Amidar(アミダー), developed by Konami and released by Stern
 
