@@ -5,6 +5,17 @@ A browser-playable recreation of Konami's classic arcade game Amidar, built with
 [![Live Demo](https://img.shields.io/badge/Play%20Online-p5.js%20Editor-blue)](https://editor.p5js.org/SeungHeon.Jeon/full/OHsZVpid6)
 [![Language](https://img.shields.io/badge/Language-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+**[Play in the browser](https://editor.p5js.org/SeungHeon.Jeon/full/OHsZVpid6)**
+
+## Highlights
+
+- Recreated Konami's Amidar in JavaScript with p5.js and no game engine: 7 enemies, 28 fillable boxes over 288 coins, 53 sprite frames
+- Reproduced the arcade's Amidakuji (ghost-leg) movement for 6 enemies on a 23-rung ladder maze
+
+## My Role
+
+Team of 3 (DigiPen GAM100, Fall 2020).
+
 ## Features
 
 - **Grid traversal gameplay** — Move along fixed paths to collect all coins on the map while enemies patrol the same grid
