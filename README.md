@@ -14,7 +14,7 @@ A browser-playable recreation of Konami's classic arcade game Amidar, built with
 
 ## My Role
 
-Team of 3 (DigiPen GAM100, Fall 2020).
+Team of 3 (DigiPen GAM100, Fall 2020). I was the team's Tech Lead.
 
 ## Features
 
@@ -34,7 +34,7 @@ Team of 3 (DigiPen GAM100, Fall 2020).
 
 - **p5.js** — Chosen for rapid canvas rendering and a built-in game loop (`setup`/`draw`) that let a three-person team prototype mechanics without a dedicated engine
 - **p5.sound** — Handled all in-game audio (coin pickup, attack, stage clear, game over) with minimal setup alongside p5.js
-- **Vanilla JavaScript (ES5/ES6)** — All game logic (enemy pathfinding, rectangle detection, sprite state) is hand-rolled without a framework to satisfy course constraints
+- **Vanilla JavaScript (ES5/ES6)** — All game logic (enemy movement rules, box fill detection, sprite state) is hand-rolled without a framework to satisfy course constraints
 - **JSON sprite manifests** — Character, enemy, and tracer animations are defined in external JSON files (`character.json`, `enemy.json`, `tracer.json`), keeping art data separate from logic
 
 ## Getting Started
